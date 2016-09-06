@@ -1,1 +1,1 @@
-Bu proje giti kullanabiliyormuyum diye açılmıştır.
+Bu proje git'i öğrenme amaçlı açılmıştır..
